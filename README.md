@@ -1,19 +1,57 @@
-# Olá, me chamo Thalys :smile:
-## Bem Vindo ao meu perfil do GitHub 👋
+# Olá, eu sou o Thallys! 👋
 
-### Sobre Mim :point_down:
-- _**Apaixonado por programação desde os 10 anos de idade mas nunca tive a oportunidade de focar nisso, porém na época da pandemia, no meio das coisas ruins, tirei as coisas boas que pude e criei coragem pra aprender, e focar, no que eu sempre amei. Desde então, entre idas e vindas, agora me encotro fazendo o que eu gosto, trabalhando dia a dia pra evoluir encontra minha oportunidade no mercado de trabalho.**_
-- 🔭 Atualmente trabalhando em projetos proprios, usando a linguagem back-end **PHP**.
-- 🌱 Estudando sobre o desenvolvimento web, focado mais na parte do back-end, buscando evoluir atraves do aprendizado constante.
-#### :point_right: Ferramentas e Tecnologias:computer: :point_left:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-### Contatos :iphone:
-<a href="https://instagram.com/s0arexx._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/thallys-soares-1012341b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<hr>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallyssoares&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thallyssoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## 📊 Data Analyst 
+
+Transformo dados brutos em inteligência de negócio. 
+Com background técnico em programação, meu foco é utilizar estatística e engenharia de dados para resolver problemas complexos de aquisição, performance e retenção.
+
+- 🔭 **Atualmente:** Criando automações em Python e dashboards estratégicos para otimização de ROAS e CAC.
+- 💡 **Projetos Recentes:** Análise de cohorts, Automação de ETL com Google Apps Script e Agentes de IA (LLMs).
+- 🎯 **Objetivo:** Gerar insights acionáveis que impactam diretamente a receita.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+**Análise & Engenharia de Dados:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
-          
 
+**Visualização & BI:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="PowerBI" height="50" width="50" src="https://img.icons8.com/color/48/power-bi.png">
+  <img align="center" alt="Looker" height="50" width="50" src="https://img.icons8.com/color/48/google-data-studio.png">
+  <img align="center" alt="Excel" height="50" width="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">
+</div>
+
+---
+
+### 📂 Principais Projetos (Destaques)
+
+- **Otimização de Mídia (ROAS):** Utilizei Python e SQL para diagnosticar falhas em campanhas de DPA, resultando em uma escala de receita de R$ 800k.
+- **Automação de ETL:** Scripts em Python/Apps Script para limpeza automática de bases de dados e alimentação de dashboards.
+- **Agentes de IA:** Desenvolvimento de protótipos utilizando CrewAI e LLMs para automação de tarefas.
+
+---
+
+### 📬 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/thallys-soares-media-analyst" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:antoniothallys2017@email.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thallyssoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=php,html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallyssoares&layout=compact&langs_count=6&theme=dracula&hide=php,html,css"/>
+</div>
