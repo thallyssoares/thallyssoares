@@ -50,8 +50,3 @@ Com background técnico em programação, meu foco é utilizar estatística e en
 </div>
 
 ---
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thallyssoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=php,html,css"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallyssoares&layout=compact&langs_count=6&theme=dracula&hide=php,html,css"/>
-</div>
