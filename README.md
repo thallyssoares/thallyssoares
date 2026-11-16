@@ -1,57 +1,35 @@
-# Olá, eu sou o Thallys! 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+    <img src="assets/terminal-light.svg" alt="Terminal-style introduction for Thallys Soares, AI Engineer and Data Engineer" width="100%">
+  </picture>
+</p>
 
-## ⚡ Data Engineer | Analytics Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/thallys-soares-data-engineer/">LinkedIn</a> ·
+  <a href="https://medium.com/@antoniothallys2017">Medium</a>
+</p>
 
-Construo arquiteturas de dados robustas, pipelines de ingestão e modelos analíticos que transformam grandes volumes de dados brutos em inteligência de negócio. Unindo um background técnico em Ciência de Dados, programação e engenharia, meu foco é garantir a confiabilidade, orquestração e governança dos dados ponta a ponta.
+### About
 
-- 🔭 **Atualmente:** Atuando como Especialista em Analytics Digital e Dados de Marketing, arquitetando pipelines escaláveis e governando trackings complexos.
-- 🛠️ **Foco Técnico:** Engenharia de dados moderna (Modern Data Stack), orquestração de fluxos, ingestão automatizada (ELT/ETL) e integração de IA para automação de processos.
-- 🎯 **Objetivo:** Desenvolver sistemas de dados eficientes, com alta qualidade e governança, acelerando o time-to-insight para times de Growth e Negócios.
+I'm a Data Engineer at **Accenture**, working day to day on **AI Engineering** — designing GenAI solutions, agentic workflows, and data-driven applications.
 
----
+I'm especially interested in the engineering behind reliable AI systems: **context retrieval, multi-agent orchestration, evaluation, and architecture**. I like building practical tools that solve real problems.
 
-### 🛠️ Tech Stack & Ferramentas
+### Technical focus
 
-**Data Engineering & Orquestração:**
-<div style="display: inline_block">
-  <img align="center" alt="Dagster" height="40" src="https://img.shields.io/badge/Dagster-251E3E?style=for-the-badge&logo=dagster&logoColor=white">
-  <img align="center" alt="Airbyte" height="40" src="https://img.shields.io/badge/Airbyte-6666FF?style=for-the-badge&logo=airbyte&logoColor=white">
-  <img align="center" alt="BigQuery" height="40" src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img align="center" alt="Databricks" height="40" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-  <img align="center" alt="dbt" height="40" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
-</div>
+`Python` · `LangChain / LangGraph` · `AI Agents` · `RAG` · `MCP` · `SQL` · `Snowflake` · `GCP`
 
-**Programação, Automação & IA:**
-<div style="display: inline_block; margin-top: 10px;">
-  <img align="center" alt="Python" height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="SQL" height="40" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="n8n" height="40" src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
-</div>
+### Selected work
 
----
+**[Crypto Data Pipeline](https://github.com/thallyssoares/financial-pipeline)** — An ELT pipeline built with Python, Dagster, and BigQuery, using medallion architecture, data quality checks, and CI/CD.
 
-### 📈 Experiência de Impacto (Highlights)
+**[E-Commerce Data Streaming](https://github.com/thallyssoares/ecomm-datastreaming)** — An event-processing pipeline combining Redpanda, Bytewax, BigQuery, dbt, and Dagster.
 
-* **nowle (Especialista em Analytics Digital e Dados):** 
-  * Arquitetura e implementação de pipelines de dados ponta a ponta utilizando **Airbyte e Python** para ingestão de dados contínua no **BigQuery**.
-  * Gestão de fluxos complexos de orquestração de dados utilizando **Dagster** e automação de processos internos via **n8n** integrados com inteligência artificial.
-  * Governança de soluções analíticas de rastreamento (GTM/GA4).
+### Writing
 
-* **Monks Brasil (Analista Líder de Performance e Dados):**
-  * Otimização de orçamentos e validação de mais de R$ 20 milhões em receita utilizando modelagem avançada (**MMM**) e testes de hipóteses estatísticas (**Testes T**) via **SQL e Python**.
-  * Desenvolvimento de scripts de automação em Python para monitoramento de KPIs de anúncios, **reduzindo em 35% o tempo de reporting manual** (~10h/semana salvas).
-  * Criação de fluxos assistidos por LLMs (Claude, ChatGPT, Gemini) que aceleraram as análises de causa-raiz em investigações de campanhas em cerca de 40%.
+I write about real engineering problems, architecture decisions, and lessons learned while building AI systems.
 
+[**Beyond Keyword Matching: Designing Context Retrieval for an Analytics Chatbot**](https://medium.com/@antoniothallys2017/beyond-keyword-matching-designing-context-retrieval-for-an-analytics-chatbot-582db87cf672)
 
----
-
-### 📬 Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thallys-soares-media-analyst" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:antoniothallys2017@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+[More on Medium](https://medium.com/@antoniothallys2017)
