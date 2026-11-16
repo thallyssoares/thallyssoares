@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="386" viewBox="0 0 900 386" role="img" aria-labelledby="title desc">
+<title id="title">thallys@github — terminal introduction</title>
+<desc id="desc">Thallys Soares, Data Engineer and AI Engineer at Accenture, based in Brazil. Focused on GenAI, agents, and context-aware systems.</desc>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 17px; }
+  .title { fill: #364950; font-size: 15px; }
+  .prompt { fill: #177d59; font-weight: 600; }
+  .key { fill: #1764b7; }
+  .value { fill: #26343b; }
+  .cursor { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) { .cursor { animation: none } }
+</style>
+<rect x="0.75" y="0.75" width="898.5" height="384.5" rx="14" fill="#ffffff" stroke="#d5dfe5" stroke-width="1.5"/>
+<path d="M1 52 H899" stroke="#d5dfe5"/>
+<circle cx="24" cy="26" r="6" fill="#ff5f57"/>
+<circle cx="45" cy="26" r="6" fill="#febc2e"/>
+<circle cx="66" cy="26" r="6" fill="#28c840"/>
+<text x="450" y="31" class="title" text-anchor="middle">thallys@github: ~</text>
+<text x="49" y="87" class="prompt">~ $ whoami</text><text x="49" y="124" class="key">Name</text><text x="163" y="124" class="value">Thallys Soares</text><text x="49" y="151" class="key">Role</text><text x="163" y="151" class="value">Data Engineer &amp; AI Engineer</text><text x="49" y="178" class="key">Company</text><text x="163" y="178" class="value">Accenture</text><text x="49" y="205" class="key">Location</text><text x="163" y="205" class="value">Brazil</text><text x="49" y="250" class="prompt">~ $ focus --current</text><text x="49" y="284" class="key">Builds</text><text x="163" y="284" class="value">GenAI · AI agents · Context-aware systems</text><text x="49" y="311" class="key">Stack</text><text x="163" y="311" class="value">Python · LangGraph · GCP · Snowflake</text><text x="49" y="353" class="prompt">~ $</text>
+<rect x="95" y="337" width="10" height="20" rx="1" fill="#177d59" class="cursor"/>
+</svg>
